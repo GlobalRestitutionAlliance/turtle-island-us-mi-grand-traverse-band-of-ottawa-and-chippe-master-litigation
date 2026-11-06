@@ -7,8 +7,8 @@ skills:
   name: Historical Intervention & Canal Concession Audit
   status: ACTIVE
   manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: nicaraguan-restitution-roadmap-and-qsf-trust-execution
-  name: Nicaraguan Restitution Roadmap & QSF Trust Execution
+- id: grand-traverse-band-of-ottawa-and-chippean-restitution-roadmap-and-qsf-trust-execution
+  name: Grand Traverse Band of Ottawa and Chippean Restitution Roadmap & QSF Trust Execution
   status: ACTIVE
-  manifest_file: .antigravity/skills/nicaraguan-restitution-roadmap-and-qsf-trust-execution.yaml
+  manifest_file: .antigravity/skills/grand-traverse-band-of-ottawa-and-chippean-restitution-roadmap-and-qsf-trust-execution.yaml
 total_skills: 3
